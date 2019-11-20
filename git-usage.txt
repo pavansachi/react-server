@@ -1,0 +1,10 @@
+
+init
+git remote add origin git@github.com:pavansachi/react-server.git
+remote -v
+git pull origin master
+git status
+git add .
+git commit -m "server render"
+git push origin master
+

@@ -22,4 +22,4 @@ import puppeteer from 'puppeteer';
     await browser.close()
   })()
 
-console.log(ReactDOMServer.renderToString(<Component />));
+// console.log(ReactDOMServer.renderToString(<Component />));
